@@ -1,4 +1,7 @@
 # assignment2
+# J.Pawan Kalyan
+#700776779
+
 2D Convolution with Custom Kernel using TensorFlow/Keras
 
 This project demonstrates the application of a custom 3×3 kernel (Laplacian filter) on a 5×5 input matrix using TensorFlow's `Conv2D` layer. It shows the impact of different stride and padding combinations on the output feature maps.
