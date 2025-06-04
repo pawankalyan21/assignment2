@@ -1,6 +1,6 @@
 # assignment2
 # J.Pawan Kalyan
-#700776779
+# 700776779
 
 2D Convolution with Custom Kernel using TensorFlow/Keras
 
